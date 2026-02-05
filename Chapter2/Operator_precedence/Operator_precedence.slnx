@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Operator_precedence.vcxproj" Id="628a0057-2fbf-4ab7-aae8-0befd2f49b1f" />
+</Solution>

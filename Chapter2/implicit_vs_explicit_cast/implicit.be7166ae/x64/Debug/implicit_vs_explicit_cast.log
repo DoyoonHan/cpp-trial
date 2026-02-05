@@ -1,0 +1,4 @@
+﻿  implicit_vs_explicit_cast.cpp
+C:\Users\dyhan\source\repos\Chapter2\implicit_vs_explicit_cast\implicit_vs_explicit_cast.cpp(8,16): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dyhan\source\repos\Chapter2\implicit_vs_explicit_cast\implicit_vs_explicit_cast.cpp(21,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  implicit_vs_explicit_cast.vcxproj -> C:\Users\dyhan\source\repos\Chapter2\implicit_vs_explicit_cast\x64\Debug\implicit_vs_explicit_cast.exe
