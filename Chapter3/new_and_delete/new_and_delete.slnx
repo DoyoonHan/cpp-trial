@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="new_and_delete.vcxproj" Id="d36fa961-8034-4f25-b8e9-c850aadec5fb" />
+</Solution>

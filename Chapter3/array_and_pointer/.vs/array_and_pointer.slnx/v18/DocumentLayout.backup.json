@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyhan\\source\\repos\\Chapter2\\array_and_pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A511AB-3C7C-4D25-A806-74FC99004AC4}|array_and_pointer.vcxproj|C:\\Users\\dyhan\\source\\repos\\Chapter2\\array_and_pointer\\array_and_pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73A511AB-3C7C-4D25-A806-74FC99004AC4}|array_and_pointer.vcxproj|solutionrelative:array_and_pointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_and_pointer.cpp",
+              "DocumentMoniker": "C:\\Users\\dyhan\\source\\repos\\Chapter2\\array_and_pointer\\array_and_pointer.cpp",
+              "RelativeDocumentMoniker": "array_and_pointer.cpp",
+              "ToolTip": "C:\\Users\\dyhan\\source\\repos\\Chapter2\\array_and_pointer\\array_and_pointer.cpp*",
+              "RelativeToolTip": "array_and_pointer.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-19T04:08:12.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
